@@ -2,7 +2,7 @@ import './index.css';
 import SearchMovie from './searchMovie';
 
 function App(){
-  return(
+  return (
     <div>
       <SearchMovie/>
     </div>
